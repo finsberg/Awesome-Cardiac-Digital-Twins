@@ -57,7 +57,7 @@ Here, we summarize the representative research teams and organizations in the co
 | [Computational Cardiac Modeling Group (CaMo)](https://www.ibt.kit.edu/english/camo.php)| [Prof Axel Loewe](https://scholar.google.de/citations?user=dLThgu0AAAAJ&hl=de)        | Karlsruhe Institute of Technology, Germany |
 | [Computational Cardiology](https://team.inria.fr/epione/en/computational-cardiology/) | [Prof Maxime Sermesant](https://scholar.google.com/citations?user=LTDUiAkAAAAJ&hl=en)  | Inria, France |
 | [Computational Multiscale Simulation Laboratory (CoMMLab)](https://www.uv.es/commlab/index.html) | [Prof Rafael Sebastian Aguilar](https://www.uv.es/uvweb/universidad/es/ficha-persona-1285950309813.html?p2=rasea3&idA=) | Universitat de Valencia, Spain |
-| [Simula Research Laboratory](https://www.simula.no/) | [Prof Are Magnus Bruaset](https://www.simula.no/people/arem) | University of Oslo, Norway |
+| [Computational Phyisology](https://www.simula.no/research/research-departments/computational-physiology) | [Dr Hermenegild Arevalo](https://www.simula.no/people/hermenegild) | Simula Research Laboratory, Oslo, Norway |
 | [Trayanova Lab](http://www.trayanovalab.org/)  | [Prof Natalia Trayanova](https://scholar.google.com/citations?user=oY3ePQ8AAAAJ&hl=en) | Johns Hopkins University, US  |
 | [Yoram Rudy Lab](https://rudylab.wustl.edu/)   | [Prof Yoram Rudy](https://rudylab.wustl.edu/people/yoram_rudy/) | Washington University in St. Louis, US|
 | [He Lab](https://www.cmu.edu/bme/helab/)  | [Prof Bin He](https://www.cmu.edu/bme/People/Faculty/profile/bhe.html) | Carnegie Mellon University, US |
